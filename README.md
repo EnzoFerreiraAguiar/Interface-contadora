@@ -7,7 +7,6 @@
 
 - Possui três sliders para a realização da contagem, um para o começo, outro para o fim e outro para o intervalo, além de uma lista para a saída dos resultados. 
 
-##
 
 ### Funcionalidades
 
