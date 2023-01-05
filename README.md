@@ -1,9 +1,6 @@
 ## O seguinte projeto foi criado para exercitar os conceitos adquiridos no estudos da linguagem. 
 
 
-##
-
-
 ### Descrição
 
 - Na criação da interface foram usados o Laço de Repetição For, interfaces gráficas criadas no pacote javax.swing e conceitos básicos da Programação Orientada a Objetos (POO).
